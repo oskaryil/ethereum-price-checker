@@ -1,0 +1,17 @@
+{
+  "name": "virtual_currency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "eth": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.5.2"
+  }
+}
